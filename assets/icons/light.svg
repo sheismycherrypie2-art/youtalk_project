@@ -1,0 +1,33 @@
+<svg width="179" height="35" viewBox="0 0 179 35" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <line x1="112.75" y1="16.882" x2="178.75" y2="16.882" stroke="#0063A8"/>
+  <line y1="16.882" x2="66" y2="16.882" stroke="#0063A8"/>
+
+  <circle
+    cx="88.875"
+    cy="17.382"
+    r="16"
+    stroke="#0063A8"
+    stroke-width="2.76396"
+    stroke-dasharray="0.98 8.39"
+  />
+
+  <!-- white vectors from the Figma icon -->
+  <path
+    d="M84.85 0.35L78.05 13.45H82.1L79.3 22.55L90.25 7.05H85.75L84.85 0.35Z"
+    fill="#FFFFFF"
+  />
+  <path
+    d="M92.9 34.45L99.7 21.35H95.65L98.45 12.25L87.5 27.75H92L92.9 34.45Z"
+    fill="#FFFFFF"
+  />
+
+  <path
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+    d="M88.2639 6.19443L81.3581 19.3492C81.0086 20.0151 81.4915 20.814 82.2435 20.814H85.9264L85.7465 27.3272C85.688 29.4454 88.5316 30.1882 89.5165 28.3121L96.4223 15.1573C96.7719 14.4914 96.289 13.6924 95.5369 13.6924H91.854L92.034 7.17929C92.0925 5.06112 89.2488 4.31826 88.2639 6.19443Z"
+    fill="#FFDF4E"
+    stroke="#0063A8"
+    stroke-width="2.77572"
+    stroke-linejoin="round"
+  />
+</svg>

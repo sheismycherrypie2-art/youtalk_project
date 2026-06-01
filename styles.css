@@ -943,7 +943,8 @@ img {
 
 }
 
-/* Article fixes from latest assets */ .article-divider {
+/* Article fixes from latest assets */ 
+.article-divider {
   display:flex;
   align-items:center;
   justify-content:center;
